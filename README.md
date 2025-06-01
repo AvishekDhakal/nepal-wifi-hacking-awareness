@@ -36,12 +36,16 @@ The attack simulates how someone could steal credentials using simple techniques
 - Trainers running awareness workshops
 
 ---
+## Disclaimer
+This project is for educational and awareness purposes only. I am not responsible for any misuse of this tool. Use it only in test environments or on networks you have full permission to simulate attacks on. Unauthorized use can be illegal.
+---
 
 ## Quick Start
 
 ```bash
 chmod +x captive-portal.sh
 ./captive-portal.sh
+
 
 
 
