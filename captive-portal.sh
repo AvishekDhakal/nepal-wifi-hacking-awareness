@@ -4,11 +4,10 @@ if [[ $EUID -ne 0 ]]; then
   exec sudo bash "$0" "$@"
 fi
 
-# from here on, you can remove all 'sudo' inside your functions
 
 
 required_pac=("apache2" "dnsmasq" "hostapd-wpe" "aircrack-ng" "libapache2-mod-php")
-# source ./install.sh 
+
 
 check_packages(){
 
