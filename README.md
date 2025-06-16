@@ -1,4 +1,4 @@
-# Nepal WiFi Hacking Awareness Toolkit
+# Nepal WiFi Hacking Toolkit
 
 This was a project I demonstrated in my college TechExpo to show how attackers can easily target WiFi users using deauthentication attacks and fake access points. 
 It is focused on Nepalese ISPs to make the awareness more relatable to local users.
